@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm MUHAMMAD ZAHIRUL
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from Bangladesh**
 
 Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anyt
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a App Developer and Programmer. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
